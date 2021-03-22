@@ -1,0 +1,7 @@
+com\crunchify\controller\config\SpringConfig.class
+com\crunchify\coonectDB\User.class
+com\crunchify\coonectDB\MyAppConfig.class
+com\crunchify\controller\HelloController.class
+com\crunchify\coonectDB\UserDao.class
+com\crunchify\coonectDB\Test.class
+com\crunchify\controller\config\MySpringMvcDispetcherServletIniilizator.class
